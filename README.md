@@ -1,4 +1,4 @@
-# Bahjat Shell
+# Bahjat Shell☠️☠️
 **Bahjat Shell** - A Simple Unix Shell Implementation
 
 ## Installation
@@ -25,5 +25,4 @@ To install and use **Bahjat Shell**, follow these steps:
     ```
 
 
-### HEREEE WEEEE GOOOOOOO! 🎉🎉  
-Enjoy! ☠️☠️
+### HEREEE WEEEE GOOOOOOO! 🎉🎉
