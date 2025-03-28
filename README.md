@@ -2,7 +2,7 @@
 **Bahjat Shell** - A Simple Unix Shell Implementation
 
 ## Installation
-To install and use **Bahjat Shell**, follow these steps:
+To install and use **Bahjat Shell**:
 
 1. Clone the project:
     ```bash
@@ -11,7 +11,7 @@ To install and use **Bahjat Shell**, follow these steps:
 
 2. Navigate to the project directory:
     ```bash
-    cd bahjat-shell
+    cd Bahjat_Shell
     ```
 
 3. Build the project using `make`:
