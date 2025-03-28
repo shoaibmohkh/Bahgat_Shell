@@ -1,5 +1,5 @@
-# Bahgat_Shell
-Bahgat_Shell - A Simple Unix Shell Implementation
+# Bahjat Shell
+**Bahjat Shell** - A Simple Unix Shell Implementation
 
 ## Installation
 To install and use **Bahjat Shell**, follow these steps:
@@ -21,6 +21,8 @@ To install and use **Bahjat Shell**, follow these steps:
 
 4. Run the shell:
     ```bash
-    ./bahjat_sh
+    ./Bahjat_Shell
     ```
 
+### HEREEE WEEEE GOOOOOOO! 🎉🎉  
+Enjoy! ☠️☠️
