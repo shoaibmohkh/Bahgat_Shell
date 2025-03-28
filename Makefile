@@ -1,4 +1,4 @@
-NAME = minishell
+NAME = Bahgat_Shell
 
 SRCS = src/main.c \
        src/main_utils/utils_one.c \
